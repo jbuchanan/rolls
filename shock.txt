@@ -34,7 +34,6 @@ dimwishlist:item=3593598010&perks=13792278,1561002382,1820235745,3425386926,1863
 dimwishlist:item=-432476743&perks=4049631843#notes: PvP wedge trash this!
 dimwishlist:item=432476743&perks=3250034553,1885400500,706527188,2846385770,2697220197#notes: PvP Aztec roll 1
 dimwishlist:item=432476743&perks=2846385770 #notes: PvP wedge rangefinder
-dimwishlist:item=432476743&perks=3425386926 #notes: PvP wedge rampage
 dimwishlist:item=432476743&perks=2450788523,3425386926#notes: PvP wedge
 dimwishlist:item=432476743&perks=1392496348,1561002382,706527188,2846385770#notes: PvP wedge
 dimwishlist:item=432476743&perks=1392496348,1885400500,706527188,2846385770#notes: PvP wedge
