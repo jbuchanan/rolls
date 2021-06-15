@@ -183,6 +183,7 @@ dimwishlist:item=2496242052&perks=1478423395,3796465595,706527188,1275731761#not
 dimwishlist:item=2496242052&perks=1441682018,2985827016,951095735,3927722942#notes:wedge - PvP g2gunsmith
 dimwishlist:item=2496242052&perks=3525010810,2822142346,3300816228,3927722942,186337601#notes:wedge - PvP
 dimwishlist:item=2496242052&perks=3525010810,2822142346,3300816228,3927722942,186337601#notes:wedge - PvE
+
 title:Blueberries.gg's collected / tiered S14 weapon picks
 description:Originally found at https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons/
 
